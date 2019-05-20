@@ -1,0 +1,9 @@
+Debug/
+.settings/
+lv_dev_tools/
+**/*.o
+*.o
+.vscode
+demo
+.pydevproject
+/.metadata/
